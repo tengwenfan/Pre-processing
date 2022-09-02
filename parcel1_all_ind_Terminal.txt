@@ -1,0 +1,29 @@
+# directory
+
+cd /Volumes/juschnei/lendlab/projects/sllip/make_parcels-tengwen/featquery/nwr_parcel_reports/
+
+# parcel 1
+cd ..
+cd parcel1/
+cat * > parcel1_all_ind.txt
+
+#parcel 2
+cd ..
+cd parcel2/
+cat * > parcel2_all_ind.txt
+
+#parcel 2
+cd ..
+cd parcel3/
+cat * > parcel3_all_ind.txt
+
+#parcel 4
+cd ..
+cd parcel4/
+cat * > parcel4_all_ind.txt
+
+
+#parcel 4
+cd ..
+cd parcel5/
+cat * > parcel5_all_ind.txt
